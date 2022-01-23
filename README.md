@@ -1,11 +1,6 @@
-# 1510-A4-Text-based-adventure-game
+# Text Based Adventure Game
 
-### Your names: 
-Justin Yoon, Eric Choi
-### Your student numbers:
-A01247378, A01260740
-#### ** Add any comments for me below this line **
-| Required Elements |Location  |
+| Elements |Location  |
 |-------------------|----------|
 |Tuple| 272 302 |
 |List| 382 |
@@ -17,4 +12,3 @@ A01247378, A01260740
 |Enumerate|1048|
 |Filter or Map Function|1125 1030|
 |Random module|1093|
-#### ** Add any comments for me above this line **
